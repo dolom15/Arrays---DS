@@ -1,1 +1,1 @@
-# Arrays---DS
+# Arrays---DS This code reverses the order of elements in an integer array by using the built-in `Reverse()` method and returns the reversed list. The `Main` method reads input, calls `reverseArray`, and prints the reversed array as space-separated values.
